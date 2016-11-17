@@ -39,7 +39,7 @@ Author
 
 Gill Martin, Met Office, FitzRoy Road, Exeter UK
 
-**(c) British Crown Copyright 2016**
+**(c) British Crown Copyright 2016, Met Office**
 
 **Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.**
