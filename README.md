@@ -54,9 +54,13 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+========
+Citation
+========
+
 Users who apply the software resulting in presentations or papers are kindly asked to cite:
 
-* *Klingaman, N. P., Martin, G. M., and Moise, A.: ASoP (v1.0): A set of methods for analyzing scales of precipitation in general circulation models, Geosci. Model Dev., doi:10.5194/gmd-2016-161*
+* *Klingaman, N. P., Martin, G. M., and Moise, A.: ASoP (v1.0): A set of methods for analyzing scales of precipitation in general circulation models, Geosci. Model Dev., http://www.geosci-model-dev-discuss.net/gmd-2016-161/*
 
 =======
 Modules
