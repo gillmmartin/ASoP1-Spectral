@@ -5,6 +5,8 @@
 
 This set of Python modules is sufficient to generate and plot histograms of precipitation amounts on any input timescale and horizontal grid.
 
+The code uses Python2.7 and requires installation of the Iris (see http://scitools.org.uk/iris/) and Matplotlib (see  http://matplotlib.org/) code libraries.
+
 The code uses either kg m-2 day-1 or mm day-1 as the unit for precipitation throughout. Input datasets on other timescales are converted to kg m-2 day-1 or mm day-1 using Iris method ``convert_units``, provided their input units are specified and are in the same form. 
 
 Datasets of accumulated rainfall over specified time periods must include the accumulation time as part of the unit otherwise convert_units will fail. For example, 3-hourly accumulations must be labelled in mm 3h-1 or kg m-2 3h-1 and not just mm or kg m-2.
